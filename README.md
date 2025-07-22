@@ -7,7 +7,7 @@ A simple Asteroids-style game built with C++, OpenGL, and GLUT.
 Install dependencies:
 
 sudo apt-get install g++ freeglut3-dev libglu1-mesa-dev
-git clone https://github.com/yourusername/Asteroids-Game.git
+git clone https://github.com/nate7378/Asteroids-Game.git
 cd Asteroids-Game
 g++ asteroids_game.cpp -o asteroids -lGL -lGLU -lglut
 ./asteroids
